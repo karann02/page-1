@@ -1,0 +1,487 @@
+.summary-frame-child {
+  width: 345px;
+  height: 484px;
+  position: relative;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.skinclublogo-logotype-white-2-icon3 {
+  width: 90.7px;
+  height: 16px;
+  position: relative;
+  object-fit: cover;
+  z-index: 2;
+}
+.summery3 {
+  position: relative;
+  line-height: 21px;
+  z-index: 2;
+}
+.summary-text-icon {
+  height: 0;
+  width: 255px;
+  position: relative;
+  object-fit: contain;
+  z-index: 2;
+}
+.date-and-total,
+.logo-and-summary {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 1px;
+}
+.logo-and-summary {
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 var(--padding-9xs);
+  gap: 18px 0;
+  color: var(--color-dimgray-100);
+}
+.dr-vihang3,
+.jane-doe3 {
+  position: relative;
+  line-height: 21px;
+  z-index: 2;
+}
+.doctor-frame,
+.doctor-frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.doctor-frame {
+  width: 175px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.doctor-frame-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs) var(--padding-2xs);
+  font-size: var(--font-size-xs);
+}
+.rate-qty-frame-child {
+  align-self: stretch;
+  height: 146px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  display: none;
+}
+.frame-child74 {
+  height: 49px;
+  width: 305px;
+  position: relative;
+  border-radius: var(--br-8xs) var(--br-8xs) 0 0;
+  background-color: var(--color-black);
+  display: none;
+}
+.item4 {
+  position: relative;
+  line-height: 20px;
+  z-index: 4;
+}
+.item-frame {
+  width: 91px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.amount5,
+.qty4,
+.rate4 {
+  position: relative;
+  line-height: 20px;
+  z-index: 4;
+}
+.rectangle-parent67 {
+  align-self: stretch;
+  border-radius: var(--br-8xs) var(--br-8xs) 0 0;
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: var(--padding-mini) var(--padding-smi) var(--padding-sm)
+    var(--padding-xs);
+  gap: var(--gap-xl);
+  z-index: 3;
+  color: var(--color-white);
+}
+.vitamin-a-night11,
+.vitamin-a-night12 {
+  position: relative;
+  line-height: 17px;
+  z-index: 3;
+}
+.vitamin-a-night11 {
+  flex: 1;
+}
+.vitamin-a-night12 {
+  width: 32px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.vitamin-a-night-serum-group3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 3px;
+  min-width: 105px;
+}
+.div100,
+.div101 {
+  width: 32px;
+  position: relative;
+  line-height: 17px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.div101 {
+  white-space: nowrap;
+}
+.vitamin-a-night-serum-group1,
+.vitamin-a-night-serum-group2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vitamin-a-night-serum-group2 {
+  flex: 1;
+  gap: 0 26px;
+}
+.vitamin-a-night-serum-group1 {
+  align-self: stretch;
+  padding: 0 var(--padding-mini) 0 var(--padding-2xs);
+}
+.div102,
+.vitamin-a-night13 {
+  position: relative;
+  line-height: 17px;
+  z-index: 3;
+}
+.vitamin-a-night13 {
+  flex: 1;
+}
+.div102 {
+  width: 32px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.vitamin-a-night-serum-parent7 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 3px;
+  min-width: 105px;
+}
+.div103,
+.div104 {
+  width: 32px;
+  position: relative;
+  line-height: 17px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.div104 {
+  white-space: nowrap;
+}
+.frame-parent23,
+.vitamin-a-night-serum-group4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent23 {
+  flex: 1;
+  gap: 0 26px;
+}
+.vitamin-a-night-serum-group4 {
+  align-self: stretch;
+  padding: 0 var(--padding-mini) 0 var(--padding-2xs);
+}
+.div105,
+.vitamin-a-night14 {
+  position: relative;
+  line-height: 17px;
+  z-index: 3;
+}
+.vitamin-a-night14 {
+  flex: 1;
+}
+.div105 {
+  width: 32px;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.vitamin-a-night-serum-parent8 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0 3px;
+  min-width: 105px;
+}
+.div106,
+.div107 {
+  width: 32px;
+  position: relative;
+  line-height: 17px;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.div107 {
+  white-space: nowrap;
+}
+.frame-parent24,
+.rate-qty-frame,
+.vitamin-a-night-serum-group5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent24 {
+  flex: 1;
+  gap: 0 26px;
+}
+.rate-qty-frame,
+.vitamin-a-night-serum-group5 {
+  align-self: stretch;
+  padding: 0 var(--padding-mini) 0 var(--padding-2xs);
+}
+.rate-qty-frame {
+  border-radius: var(--br-8xs);
+  background-color: var(--color-white);
+  border: 0.5px solid var(--color-dimgray-200);
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 var(--padding-mid);
+  gap: 9px 0;
+  z-index: 2;
+}
+.discount-104,
+.subtotal5,
+.tax-53 {
+  position: relative;
+  line-height: 20px;
+}
+.subtotal5 {
+  font-weight: 500;
+  color: var(--color-black);
+  z-index: 2;
+}
+.discount-104,
+.tax-53 {
+  z-index: 3;
+}
+.discount-104 {
+  white-space: nowrap;
+  z-index: 4;
+}
+.subtotal-line {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.div108,
+.div109,
+.div110 {
+  position: relative;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.div108 {
+  font-weight: 500;
+  color: var(--color-black);
+  z-index: 2;
+}
+.div109,
+.div110 {
+  z-index: 3;
+}
+.div110 {
+  z-index: 4;
+}
+.subtotal-line1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.invoice-footer,
+.line-break {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.line-break {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.invoice-footer {
+  width: 169px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini);
+  box-sizing: border-box;
+  color: var(--color-dimgray-300);
+}
+.empty-line {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  border-top: 1px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.total-label1,
+.total7 {
+  position: relative;
+  line-height: 20px;
+  font-weight: 600;
+  z-index: 2;
+}
+.total-label1 {
+  white-space: nowrap;
+}
+.grand-total,
+.total-frame2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.grand-total {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.total-frame2 {
+  width: 114px;
+  justify-content: flex-start;
+  padding: 0 var(--padding-mini) var(--padding-9xs) 0;
+  box-sizing: border-box;
+}
+.invoice-notes-child {
+  height: 55px;
+  width: 305px;
+  position: relative;
+  background-color: var(--color-whitesmoke);
+  display: none;
+}
+.notesterms3 {
+  margin-bottom: -5px;
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+  z-index: 4;
+}
+.notesterms-wrapper {
+  height: 15px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+}
+.lorem-ipsum-dolor3 {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-cabin);
+  font-size: var(--font-size-3xs);
+  background-color: transparent;
+  align-self: stretch;
+  height: 17px;
+  position: relative;
+  line-height: 20px;
+  color: var(--color-gray);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 137px;
+  z-index: 3;
+}
+.create-new-inv {
+  width: 228px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.invoice-notes,
+.serum-item-frame,
+.summary-frame2 {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+}
+.invoice-notes {
+  background-color: var(--color-whitesmoke);
+  flex-direction: row;
+  align-items: flex-start;
+  padding: var(--padding-5xs) var(--padding-xs) var(--padding-mini);
+  z-index: 2;
+}
+.serum-item-frame,
+.summary-frame2 {
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 0 var(--padding-9xs);
+  gap: 8px 0;
+}
+.summary-frame2 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white);
+  border: 1px solid var(--color-dimgray-200);
+  box-sizing: border-box;
+  align-items: center;
+  padding: var(--padding-xl) var(--padding-mini) var(--padding-mini);
+  gap: 22px 0;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-cabin);
+}
+@media screen and (max-width: 450px) {
+  .date-and-total {
+    flex-wrap: wrap;
+  }
+  .qty4 {
+    width: 100%;
+    height: 17px;
+  }
+  .frame-parent23,
+  .frame-parent24,
+  .rectangle-parent67,
+  .vitamin-a-night-serum-group2 {
+    flex-wrap: wrap;
+  }
+}
